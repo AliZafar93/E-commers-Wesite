@@ -1,1 +1,2 @@
 # E-commers-Wesite
+E-commerce website! fully responsive platform using HTML, CSS, and JavaScript to deliver an exceptional shopping experience. Captivating picture slider, showcasing the latest fashion trends. Bill calculation system will keep you informed of the sub-total. It has a responsive design that is optimized for various devices. You can view the website by clicking on the link provided below.  https://alizafar93.github.io/E-commers-Wesite/
